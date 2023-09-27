@@ -1,5 +1,6 @@
 <template>
   <div class="bg" @click="callFather">
+    1231313
     {{ parentMsg }}
   </div>
 </template>
